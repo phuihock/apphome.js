@@ -1,0 +1,28 @@
+{
+  "name": "apphome",
+  "version": "0.0.1",
+  "description": "A helper to require module relative to project root \"APP_HOME\" instead of current module directory.",
+  "main": "./lib/apphome.js",
+  "devDependencies": {
+    "jasmine-node": "~1.11.0"
+  },
+  "scripts": {
+    "test": "jasmine-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phuihock/apphome.js"
+  },
+  "keywords": [
+    "dependency",
+    "module",
+    "require",
+    "utility"
+  ],
+  "author": "Phui-Hock, Chang",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/phuihock/apphome.js/issues"
+  },
+  "homepage": "https://github.com/phuihock/apphome.js"
+}
